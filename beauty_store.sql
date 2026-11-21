@@ -1,3 +1,5 @@
+CREATE DATABASE beauty_store;
+    
 USE beauty_store;
 
 CREATE TABLE Product (
